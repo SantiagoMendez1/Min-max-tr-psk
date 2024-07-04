@@ -1,0 +1,1 @@
+{"61578": {"max_depth": 10, "max_features": "sqrt", "min_samples_split": 10, "n_estimators": 2000}, "49062": {"max_depth": 10, "max_features": "sqrt", "min_samples_split": 10, "n_estimators": 400}, "69283": {"max_depth": 10, "max_features": "sqrt", "min_samples_split": 2, "n_estimators": 2000}}
